@@ -6,7 +6,10 @@
 
 1. C++ Compiler
 2. vcpkg
-3. curl     ``` vcpkg install curl ```
+3. curl
+    ``` 
+    vcpkg install curl
+    ```
 4. libcurl
 
 <br/>
