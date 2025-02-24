@@ -1,5 +1,7 @@
 # API Scraper Written in C++
 
+<a href="https://colab.research.google.com/github/imagoX/API-Scraper-CPP/blob/main/API_Scraper_CPP.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ## Requirements
 
 1. C++ Compiler
